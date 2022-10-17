@@ -10,6 +10,6 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 - [ ] This item is complete
 - [ ] This item is not complete
 
-- [x} week 1 done
+- [x] week 1 done
 - [ ] week 2 done
 - [ ] week 3 done
